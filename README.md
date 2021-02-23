@@ -1,5 +1,5 @@
 # Olá, Mundo
- Primeiro repositório do curso de Git e GitHub
+ Primeiro repositório no GitHub
 
 Repositório criado como teste 
 
